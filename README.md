@@ -1,4 +1,4 @@
-- Ecologist interested in plants, mycorrhizal fungi, herbivores and plant defence.
+- Ecologist interested in arbuscular mycorrhizal fungi, plants, and community ecology.
 - Always trying improve my statistical and R coding skills
 
 <!---
